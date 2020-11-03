@@ -1,0 +1,13 @@
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\bin\Debug\HomeForm_1.exe.config
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\bin\Debug\HomeForm_1.exe
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\bin\Debug\HomeForm_1.pdb
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.Form1.resources
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.Properties.Resources.resources
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.csproj.GenerateResource.cache
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.exe
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.pdb
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.Form2.resources
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.Form3.resources
+C:\Users\Anatoliy\source\repos\HomeForm_1\HomeForm_1\obj\Debug\HomeForm_1.Form4.resources
